@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+  Changes:
+    - Updated to depend on latest library version that contains fixed leighzermods.utils.replaceIngredientFromRecipe.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+  Changes:
+    - Version bump to 1.0.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
   Changes:
     - Initial release.
