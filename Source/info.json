@@ -1,10 +1,10 @@
 {
   "name": "leighzerirontorio",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "title": "Leighzer's Irontorio",
   "author": "Leighzer",
   "contact": "Please message me on the factorio forums my username is leighzer.",  
-  "factorio_version": "1.0",
-  "dependencies": [ "base >= 1.0.0", "leighzerlib >= 0.2.2"],
+  "factorio_version": "1.1",
+  "dependencies": [ "base >= 1.1.0", "leighzerlib >= 0.3.0"],
   "description": "Removes copper and stone, replacing them with iron in all recipes."
 }
